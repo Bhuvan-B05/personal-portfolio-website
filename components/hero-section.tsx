@@ -91,7 +91,7 @@ export function HeroSection() {
                 <ArrowDown className="h-3.5 w-3.5 transition-transform group-hover:translate-y-0.5" />
               </a>
               <a
-                href="resume.pdf"
+                href="https://drive.google.com/file/d/14R_zhKaMSKc5lLHRrf-FeghsGO5Aivo3/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-2 rounded-md border border-border px-5 py-2.5 text-sm font-medium text-foreground transition-all hover:border-primary/40 hover:text-primary"
